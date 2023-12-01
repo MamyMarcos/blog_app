@@ -1,0 +1,16 @@
+.button-custom{
+    color: black;
+    font-size: 20px;
+}
+
+.button-custom:hover {
+    color: #7a7a7a;
+}
+
+.th-num, .th-action {
+    width: 1%;
+}
+
+.view-margin {
+    margin-bottom: 15px;
+}
